@@ -1,0 +1,14 @@
+.display-1{ 
+display: flex; 
+justify-content: center;  
+margin-top: 100px; 
+margin-bottom: 100px;
+ } 
+ #detail{ 
+ display: flex; 
+ flex-direction: column; 
+ margin-top: 150px; 
+ margin-bottom: 30px;
+  } 
+ body{ 
+ background-image: url("http://ak0.picdn.net/shutterstock/videos/13323530/thumb/1.jpg"); }
